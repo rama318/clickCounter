@@ -1,0 +1,44 @@
+/* Write your CSS here */
+
+.container {
+  height: 100vh;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-size: 40px;
+  font-family: 'roboto';
+  font-weight: bold;
+  color: #2d3a35;
+  text-align: center;
+}
+
+.sub-heading {
+  font-size: 40px;
+  font-family: 'roboto';
+  font-weight: bold;
+  color: #c20a72;
+}
+
+.description {
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: bold;
+  text-align: center;
+}
+
+.button {
+  border: 1px solid #007bff;
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: #007bff;
+  font-size: 14px;
+  padding: 5px;
+  cursor: pointer;
+  outline: none;
+}
